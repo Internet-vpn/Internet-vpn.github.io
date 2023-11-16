@@ -78,7 +78,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="^1^" alt="Logo de Internet VPN" class="logo">
+        <img src="^1^" alt="[Logo de Internet VPN](https://file.io/2edeIkCMfTrZ)" class="logo">
         <h1 class="title">Internet VPN</h1>
         <h2 class="subtitle">La aplicación que te da conexión a internet gratis, ofrecida por NetFreeGlobal</h2>
         <div class="content">
