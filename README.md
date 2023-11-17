@@ -106,9 +106,9 @@
             <p class="paragraph">Internet VPN solo está disponible para dispositivos Android. Para usar la aplicación, se debe agregar tiempo viendo anuncios. Cada anuncio te da unos segundos de conexión gratis. Puedes ver tantos anuncios como quieras para acumular más tiempo.</p>
             <p class="paragraph">Si quieres saber más sobre Internet VPN, puedes visitar los siguientes enlaces:</p>
             <ul>
-                <li><a href="^2^" class="link">Canal de Telegram de NetFreeGlobal</a></li>
-                <li><a href="^3^" class="link">Grupo de Telegram de NetFreeGlobal</a></li>
-                <li><a href="^4^" class="link">Perfil de Telegram del creador de Internet VPN</a></li>
+                <li><a href="^2^" class="https://t.me/NetFreeGlobal">Canal de Telegram de NetFreeGlobal</a></li>
+                <li><a href="^3^" class="https://t.me/NetFreeGlobal">Grupo de Telegram de NetFreeGlobal</a></li>
+                <li><a href="^4^" class="https://t.me/castrocol">Perfil de Telegram del creador de Internet VPN</a></li>
             </ul>
             <p class="paragraph">Gracias por usar Internet VPN. Si te gusta la aplicación, no olvides compartirla con tus amigos y familiares. También puedes dejarnos un comentario o una valoración en la tienda de aplicaciones. Tu opinión nos ayuda a mejorar el servicio.</p>
         </div>
